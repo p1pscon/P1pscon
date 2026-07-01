@@ -1,4 +1,4 @@
-## Trade > Eat > Sleep > Repeat
+## Trade -> Eat -> Sleep -> Repeat
 
 
 
